@@ -1,2 +1,2 @@
-# my-first-programs
+# python programs
 my first practise programs
